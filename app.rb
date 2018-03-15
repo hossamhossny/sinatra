@@ -1,3 +1,3 @@
-get '/'
+get '/' do
 "Hello, World"
 end
